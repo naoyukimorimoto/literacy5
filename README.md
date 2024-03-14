@@ -4,7 +4,7 @@
 ## 訂正など
 - MicrosoftのAIチャットは、本書の執筆時点ではBing Chatと呼ばれていましたが、2024/3/14時点ではMicrosoft Copilotに変わっています。これにともない、p.27 図 3.1
 等のスクリーンショットに写っているアイコンも一部変更されています。
-- p.160 AIと著作権の関係について、どのような場合に著作権侵害となるか、文化庁を中心として検討が進められています。最新の検討状況は[文化庁のサイト](https://www.bunka.go.jp/seisaku/chosakuken/index.html)などに情報があります。
+- p.160 AIと著作権の関係について、どのような場合に著作権侵害となるか等、文化庁を中心としてより具体的な検討が進められています。最新の検討状況は[文化庁のサイト](https://www.bunka.go.jp/seisaku/chosakuken/index.html)等に情報があります。
 
 ## リンク
 - [技術評論社（紙版）](https://direct.gihyo.jp/view/item/000000003188)
