@@ -16,4 +16,4 @@
 - p.43 Windowsの「集中モード」は、バージョンによっては「応答不可モード」という名称になっています。
 - p.167 Google ColaboratoryでRを使うには、メニューで「ランタイム」→「ランタイムのタイプを変更」とたどり、ランタイムのタイプで「R」を指定して保存します。
 - （第2刷まで）p.145 Windows Defenderは、WindowsのバージョンによってはMicrosoft Defender ウイルス対策 という名称になっています。
-- p.74など Microsoftのスマホ版Officeアプリの名称が「Microsoft 365 Copilot」に変わりました（2025年1月現在）。
+- p.74など MicrosoftのOfficeアプリの名称が「Microsoft 365 Copilot」に変わりました（2025年1月現在）。
