@@ -18,3 +18,5 @@
 - （第2刷まで）p.145 Windows Defenderは、WindowsのバージョンによってはMicrosoft Defender ウイルス対策 という名称になっています。
 - p.74など MicrosoftのOfficeアプリの名称が「Microsoft 365 Copilot」に変わりました（2025年1月現在）。
 - p.29 [Google社の方針](https://blog.google/products/search/country-code-top-level-domains/)で、https://www.google.co.jp/ は https://www.google.co.jp/ に転送されるようになりました（2025年6月現在）。
+- p.11 Microsoft Azure Dev Tools for Teaching は、2026年1月時点の名称は Microsoft Azure for Students となっています。
+- p.12 Skypeは2025年5月にサービス終了しました。
