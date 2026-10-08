@@ -9,6 +9,7 @@
 - [アマゾン（電子版）](https://www.amazon.co.jp/%EF%BC%BB%E6%94%B9%E8%A8%82%E7%AC%AC5%E7%89%88%EF%BC%BD%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%82%8F%E3%81%8B%E3%82%8B%E6%83%85%E5%A0%B1%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC-%E6%A3%AE%E6%9C%AC-%E5%B0%9A%E4%B9%8B-ebook/dp/B0CJTTJX2K/)
 
 ## 訂正など
+- Google ColaboratoryでRを使うには、ノートブックの「ランタイム」→「ランタイムのタイプの変更」から「R」を指定します。
 - MicrosoftのAIチャットは、本書の執筆時点ではBing Chatと呼ばれていましたが、2024/3/14時点ではMicrosoft Copilotに変わっています。これにともない、p.27 図 3.1
 等のスクリーンショットに写っているアイコンも一部変更されています。
 - p.160 AIと著作権の関係について、どのような場合に著作権侵害となるか等、文化庁を中心としてより具体的な整理が進められています。最新の検討状況は[文化庁のサイト](https://www.bunka.go.jp/seisaku/chosakuken/index.html)等に情報があります。
